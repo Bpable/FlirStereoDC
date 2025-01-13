@@ -18,6 +18,7 @@ This program should be loaded in a build folder of the respected gpu. To use it 
 2. Click Add
 3. Give a brief name and comment
 4. In the command section click browse, then navigate and select the executable.
-5. Reboot the gpu.
+5. Check that any other programs aren't set to run, and if so disable them.
+6. Reboot the gpu.
 
 At that point on startup the program should execute and begin data collection immediately.
